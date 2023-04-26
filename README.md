@@ -10,6 +10,10 @@ This contains scripts for different motion planninng and coordination tasks
 
 The assignments has a **software simulation phase** in which the algorithm was implemented using **ROS** and tested in **Gazebo**, and a **hardware implementation phase** in which the algorithm would be tested in real-world scenarios with actual Turtlebots !
 
+## Connecting laptop to Turtlebot hardware
+
+Refer 
+
 ## Hardware challenges
 
 1) Batteries running out of charge
