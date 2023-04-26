@@ -12,7 +12,7 @@ The assignments has a **software simulation phase** in which the algorithm was i
 
 ## Connecting laptop to Turtlebot hardware
 
-Refer 
+Refer [link](https://github.com/JacobTX/SC-627_scripts/blob/main/Connect%20bot%20to%20roscore.pdf)
 
 ## Hardware challenges
 
