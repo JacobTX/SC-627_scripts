@@ -10,6 +10,8 @@ This contains scripts for different motion planninng and coordination tasks
 
 The assignments has a **software simulation phase** in which the algorithm was implemented using **ROS** and tested in **Gazebo**, and a **hardware implementation phase** in which the algorithm would be tested in real-world scenarios with actual Turtlebots in the **ARMS** Lab, SysCon Department, IIT Bombay !
 
+The videos and reports can be accessed using this [link](https://drive.google.com/drive/folders/1WWi4h7FzUQk3NAeaRSMWq2q4cSmtTdqd?usp=sharing)
+
 ## Connecting laptop to Turtlebot hardware
 
 Refer [link](https://github.com/JacobTX/SC-627_scripts/blob/main/Connect%20bot%20to%20roscore.pdf)
